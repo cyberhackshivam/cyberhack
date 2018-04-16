@@ -1,0 +1,2 @@
+# cyberhack
+open domain
